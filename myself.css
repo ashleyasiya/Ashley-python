@@ -1,0 +1,27 @@
+
+h1{
+    font-size: x-large;
+     color: rgb(26, 82, 82) ;
+     background-color: floralwhite;
+}
+ h5{
+    color: darkolivegreen;
+    font-size: x-large;
+    
+ }
+ strong{
+    font-size: x-large;
+    color: darkslategrey;
+    background-color: floralwhite;
+ }
+ .title{
+   font-size: x-large;
+   color: darkolivegreen;
+ }
+ .mn{
+    font-size: x-large;
+    color: olivedrab;
+ }
+ body{
+    background-image:url(360_F_479392057_5vPDTsO4lQJ0Vl2V39BhUgZFDgmBePrJ.jpg);
+ }
